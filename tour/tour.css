@@ -2,7 +2,7 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
-.slide{width: 100%; height: 450px;background-image: url(images/cricket.jpg);
+.slide{width: 100%; height: 450px;background-image: url(images/cricket.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position:-500px;
@@ -24,7 +24,7 @@ body{
 border: 3px olid black;overflow: hidden;margin-bottom: 50px;top:100px;opacity: 0.0; transition: opacity 1s, top 1s; 
 }
 .sec1{width:100%;height: 200px;overflow: hidden;
-    background-image: url(images/cricket%20event.jpg);
+    background-image: url(images/cricket%20event.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position:-50px !important;
