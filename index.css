@@ -372,7 +372,7 @@
 
 @media screen and (min-width:700px){
     
-    .hdtxt{top: 40%;font-size: 45px;right: 10px;width: 1000px;text-align: center;margin: auto;}
+    .hdtxt{top: 40%;font-size: 35px;right: 10px;width: 1000px;text-align: center;margin: auto;}
     .sidebg{width: 350px;right: -30px;}
     .sch img{width: 100%;vertical-align:middle}
     .butbox {
@@ -412,7 +412,7 @@
 
 }
 @media screen and (min-width:1200px){
-    .hdtxt{font-size: 35px;right: 30px}
+    .hdtxt{font-size: 45px;right: 30px}
         .sidebg{width: 450px;right: -30px;}
 
 }
